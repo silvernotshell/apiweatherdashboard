@@ -1,3 +1,5 @@
+# api-weather-dashboard
+
 **Description:** A weather dashboard that will run in the browser and feature dynamically updated HTML and CSS using the Open Weather API.
 
 **User Story:** <br>
