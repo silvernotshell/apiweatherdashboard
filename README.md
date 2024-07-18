@@ -13,4 +13,4 @@ When I click on a city in the search history, then I am again presented with cur
 
 **Screenshot:** ![weather dashboard](<assets/images/Screenshot 2024-07-18 at 2.52.25 AM.png>) <br>
 
-**Link:** 
+**Link:** https://silvernotshell.github.io/apiweatherdashboard/
