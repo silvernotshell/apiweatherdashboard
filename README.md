@@ -1,10 +1,11 @@
-Description: A weather dashboard that will run in the browser and feature dynamically updated HTML and CSS using the Open Weather API.
+**Description:** A weather dashboard that will run in the browser and feature dynamically updated HTML and CSS using the Open Weather API.
 
-User Story: AS A traveler
+**User Story:** //
+AS A traveler
 I WANT to see the weather outlook for multiple cities
 SO THAT I can plan a trip accordingly
 
-Acceptance Criteria: GIVEN a weather dashboard with form inputs...
+**Acceptance Criteria:** GIVEN a weather dashboard with form inputs...
 WHEN I search for a city
 THEN I am presented with current and future conditions for that city and that city is added to the search history
 WHEN I view current weather conditions for that city
@@ -14,6 +15,6 @@ THEN I am presented with a 5-day forecast that displays the date, an icon repres
 WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
-Screenshot: ![weather dashboard](<assets/images/Screenshot 2024-07-18 at 2.52.25 AM.png>)
+**Screenshot:** ![weather dashboard](<assets/images/Screenshot 2024-07-18 at 2.52.25 AM.png>)
 
-Link: 
+**Link:** 
